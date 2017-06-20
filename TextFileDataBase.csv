@@ -1,0 +1,4 @@
+Firstname ,Lastname, Date of Birth, Email, PhoneNumber, Attendance, Job Title, Salary, Firm, Contact 
+Franz,Kafka,July 3rd 1883,Gregor@Verwandelt.de,089 9999999,true,BleiStiftSpitzner,20
+Jules,Verne,February 8th 1828,Jules@Passepartout.fr,083 20000,true,null,null,BiblioTheque nationale de France,Par Courrier
+H.P.,Lovecraft,August 20th 1890,Shadow@Innsmouth.com,090000000,false,null,null,Unkown,?
